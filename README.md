@@ -4,7 +4,7 @@
 **🦖 Hello, I've been a fullstack developer for five years seeking value.**
 
 
-**🥒 안녕하세요, 가치를 추구하는 5년차 풀스택 개발자 입니다.**
+**🥒 안녕하세요, 가치를 추구하는 5년차 풀스택 개발자 이용우 입니다.**
 
 
 ---

@@ -1,9 +1,15 @@
-#### 🐢 初めまして。フルスタックエンジニアとして価値を追求し続け5年目のイヨンウです。
-#### 🦖 Hello, I've been a fullstack developer for five years seeking value.
-#### 🥒 안녕하세요, 가치를 추구하는 5년차 풀스택 개발자 입니다.
+**🐢 初めまして。フルスタックエンジニアとして価値を追求し続け5年目のイヨンウです。**
+
+
+**🦖 Hello, I've been a fullstack developer for five years seeking value.**
+
+
+**🥒 안녕하세요, 가치를 추구하는 5년차 풀스택 개발자 입니다.**
+
+
 ---
 
-## **Skills**
+### **Skills**
 
 
 🛠️
@@ -24,7 +30,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYongwoo-kor&layout=donut-vertical)](https://github.com/LeeYongwoo-kor/oi-pos)
 
 
-## Portfolio
+### Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeYongwoo-kor&repo=oi-pos&theme=react)](https://github.com/LeeYongwoo-kor/oi-pos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeYongwoo-kor&repo=noriyan-project&theme=maroongold)](https://github.com/LeeYongwoo-kor/noriyan-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeYongwoo-kor&repo=codingTest&theme=shadow_red)](https://github.com/LeeYongwoo-kor/codingTest)

@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"/>
 
+🚀
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeYongwoo-kor%2Fhit-counter&count_bg=%23C33BDD&title_bg=%236F0084&icon=glitch.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYongwoo-kor&layout=donut-vertical)](https://github.com/LeeYongwoo-kor/oi-pos)
 

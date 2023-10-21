@@ -32,6 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeYongwoo-kor&layout=donut-vertical)](https://github.com/LeeYongwoo-kor/oi-pos)
 
+---
 
 ### Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeYongwoo-kor&repo=oi-pos&theme=react)](https://github.com/LeeYongwoo-kor/oi-pos)

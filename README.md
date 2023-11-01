@@ -34,7 +34,7 @@
 
 ---
 
-### Portfolio
+### Main Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeYongwoo-kor&repo=oi-pos&theme=react)](https://github.com/LeeYongwoo-kor/oi-pos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeYongwoo-kor&repo=noriyan-project&theme=maroongold)](https://github.com/LeeYongwoo-kor/noriyan-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeeYongwoo-kor&repo=codingTest&theme=shadow_red)](https://github.com/LeeYongwoo-kor/codingTest)
